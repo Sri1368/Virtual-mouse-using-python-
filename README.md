@@ -17,7 +17,7 @@ Make sure you have Python 3.x installed along with the required libraries:
 pip install opencv-python pyautogui
 Installation
 Clone the repository:
-git clone https://github.com/Sri1368/virtual-mouse-using-python- .git
+git clone https://github.com/Sri1368/virtual-mouse-using-python-.git
 
 License
 
